@@ -1,11 +1,11 @@
 using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("No. One")]
+[assembly: AssemblyTitle("Une Patte")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Learning")]
+[assembly: AssemblyProduct("Baby Steps")]
 [assembly: AssemblyCopyright("Copyright FMO ©2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
